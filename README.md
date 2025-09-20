@@ -19,7 +19,7 @@
 <a href="mailto:iamsashreeek@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/sashreekdas" target="blank">
+<a href="https://github.com/sashreek-x" target="blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -35,24 +35,24 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sashreekdas&show_icons=true&theme=tokyonight" alt="Sashreek's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sashreek-x&show_icons=true&theme=tokyonight" alt="Sashreek's GitHub stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashreekdas&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashreek-x&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🚀 Contribution Graph:
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sashreekdas&theme=tokyo-night" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sashreek-x&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sashreekdas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sashreek-x&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
