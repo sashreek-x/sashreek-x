@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sashreek Das</h1>
-<h3 align="center">Exploring AI, Web, and Aerospace Engineering 🚀</h3>
+<h3 align="center">Exploring AI, Web, and Aerospace 🚀</h3>
 
 ---
 
