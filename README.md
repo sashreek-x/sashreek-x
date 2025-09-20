@@ -1,38 +1,58 @@
-# Hi, I'm Sashreek 👋
-🚀 Aspiring Software Developer | Open Source Contributor | Web Development Enthusiast
+<h1 align="center">Hi 👋, I'm Sashreek Das</h1>
+<h3 align="center">Exploring AI, Web, and Aerospace Engineering 🚀</h3>
 
 ---
 
-## 🔧 Tech Stack
-**Languages:** Java, Python, JavaScript, HTML, CSS  
-**Frameworks & Tools:** React.js, Git, GitHub, Figma  
-**Other Skills:** UI/UX Design, Responsive Web Development  
+- 🔭 I’m currently working on **Frontend & AI projects**  
+- 🌱 I’m learning **Machine Learning & Fullstack Web Development**  
+- 💬 Ask me about **Python, JavaScript, React, Robotics**  
+- 📫 How to reach me: **iamsashreeek@gmail.com**  
+- ⚡ Fun fact: I’m passionate about both **Aerospace ✈️** and **Computer Science 💻**
 
 ---
 
-## 📂 Featured Projects
-- **Sorting Visualizer**  
-  Interactive algorithm visualization tool for sorting algorithms.  
-  🔗 [Live Demo](https://sorting-visualizer-seven-black.vercel.app) | [Repository](https://github.com/sashreek-x/sorting-visualizer)
-
-- **Interactive Diary App**  
-  Built with React.js & Figma for an elegant personal journaling experience.  
-  *(Repository coming soon)*
-
-- **Weather App**  
-  Real-time weather updates using OpenWeather API.  
-  *(Repository coming soon)*
-
-- **Apple Landing Page Clone**  
-  Responsive UI clone with modern design elements.  
-  *(Repository coming soon)*
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/sashreek-das-26641a321" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:iamsashreeek@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/sashreekdas" target="blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sashreek-das-26641a321/)  
-- 🐙 [GitHub](https://github.com/sashreek-x)
+### 🛠️ Languages and Tools:
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,html,css,git,figma,matlab" />
+</p>
 
 ---
 
-⭐ **Open to collaboration on open-source projects and hackathons!**
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sashreekdas&show_icons=true&theme=tokyonight" alt="Sashreek's GitHub stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashreekdas&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🚀 Contribution Graph:
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sashreekdas&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sashreekdas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
